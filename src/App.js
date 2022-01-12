@@ -19,7 +19,6 @@ function App() {
       <Profile2 />
       <Profile3 />
       <Profile4 />
-
     </div>
   );
 }
